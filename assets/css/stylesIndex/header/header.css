@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Hind+Vadodara:wght@300;400;500;600;700&family=Salsa&display=swap');
+
+:root {
+    --fuenteFiraSans: "Fira Sans", sans-serif;
+    --fuenteSalsa: "Salsa", cursive;
+    --fuenteHind: "Hind Vadodara", sans-serif;
+
+    --colorPrimario: #001F3F;
+    --colorSecundario: #3A6D8C;
+    --colorTerciario: #6A9AB0;
+    --gradiente: linear-gradient(90deg, #3A6D8C, #001F3F);
+    --blancoPrimario: #F6F6F6;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+   display: flex;
+   background-color: var(--colorPrimario);
+   justify-content: space-between;
+   align-items: center;
+   height: 85px;
+   padding: 5px 10%;  
+}
+
+.header .titulo img{
+   width: 250px;
+}
+
+.header .nav-links li{
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.header .nav-links a{
+    font-family: var(--fuenteFiraSans);
+    font-weight: bold;
+    color: var(--blancoPrimario);
+    font-size: 700;
+    text-decoration: none;
+}
+
+.header .nav-links a:hover{
+    text-decoration: underline;
+}

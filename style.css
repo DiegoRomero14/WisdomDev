@@ -129,14 +129,12 @@
     width: 100%; /* Asegura que ocupe el ancho completo */
     margin-bottom: 50px; /* Espacio inferior del título */
     margin-top: -220px;
+    color: white; 
+    font-size: 32px; 
     
 }
 
-.titulo-ciclos h1{
-    color: white; 
-    font-size: 32px; 
-   
-}
+
 
 /*estilos de los cuadros*/
 
@@ -173,6 +171,7 @@
 .inner-box:hover .popup-text {
     display: block;
     opacity: 1; /* Se vuelve visible */
+   
 }
 
 /* Añadir un efecto de escala solo cuando se hace hover sobre el cuadro */

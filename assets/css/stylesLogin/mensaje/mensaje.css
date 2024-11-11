@@ -1,0 +1,31 @@
+.Mensaje {
+    background-color: #DDDDDD;
+    width: 99%; /* Asegura que ocupe todo el ancho del contenedor */
+    padding: 10px; /* Espaciado interno opcional */
+    margin-top: 20px; /* Margen superior para separar de los cursos */
+    display: flex; /* Usar flexbox para organizar el contenido */
+    align-items: center; /* Centrar verticalmente el contenido */
+    flex-wrap: wrap;
+    margin-left: -5px;
+}
+.Mensaje img {
+    width: 150px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: auto; /* Mantiene la proporción de la imagen */
+    margin-right: 10px; /* Espaciado entre la imagen y el texto */
+    margin-left: 50px; /* Mueve la imagen hacia la derecha */
+}
+
+.Mensaje-texto {
+    flex-grow: 1; /* Permitir que el texto ocupe el espacio restante */
+    text-align: center; /* Centrar el texto */
+}
+
+.Mensaje p {
+    margin: 5px 0 0; /* Margen superior para el texto */
+    font-family: var(--fuenteFiraSans);
+    color:var(--colorNonario);
+}
+
+.Mensaje span{
+    color:var(--colorNonario)
+}

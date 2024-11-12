@@ -3,105 +3,103 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WisdomDev - Login</title>
-    <link rel="stylesheet" href="assets/css/stylesLogin/loginStyle.css">
-    <link rel="stylesheet" href="assets/css/stylesLogin/head/head.css">
-    <link rel="stylesheet" href="assets/css/stylesLogin/contenedor1/contenedor1.css">
-    <link rel="stylesheet" href="assets/css/stylesLogin/cursos/cursos.css">
-    <link rel="stylesheet" href="assets/css/stylesLogin/mensaje/mensaje.css">
-    <link rel="stylesheet" href="assets/css/stylesLogin/right-panel/right-panel.css">
-    <link rel="stylesheet" href="assets/css/stylesLogin/social-icons/social-icons.css">
+    <title>WisdomDev | Login</title>
+    <link rel="icon" type="image/svg+xml" href="assets/img/iconwd.png">
+    <link rel="stylesheet" href="assets/css/stylesLogin/header/header.css">
+    <link rel="stylesheet" href="assets/css/stylesLogin/main/main.css">
+    <link rel="stylesheet" href="assets/css/stylesLogin/main/aside.css">
+    <link rel="stylesheet" href="assets/css/stylesLogin/main/cursos.css">
+    <link rel="stylesheet" href="assets/css/stylesLogin/main/CTA.css">
+    <link rel="stylesheet" href="assets/css/stylesLogin/main/login.css">
+    <link rel="stylesheet" href="assets/css/stylesLogin/footer/footer.css">
 </head>
 <body>
-
-    <!-- Encabezado con el logo centrado -->
-    <header class="Head"> 
-        <img src="assets/img/wisdomdev_white_removebg.png" alt="Logo de WisdomDev">
+    <header class="header"> 
+        <a class="header__logo" href="index.html"><img src="assets/img/wisdomdev_white_removebg.png" alt="Logo de WisdomDev"></a>
     </header>
-
-    <main class="contenedor1">
-        
-        <h2>¿Todavía no eres alumno en WisdomDev?</h2>
-        
-        <div class="section-container">
-            
-            <!-- Sección de cursos -->
-            <section class="cursos">
-                <div class="caja1">
-                    <div class="curso-analisis"> 
-                        <img src="assets/img/analisis_login.png">
-                        <h3>Análisis</h3>
-                        <p> Análisis de requerimientos, Modelado de sistemas, Especificaciones técnicas.</p> 
-                    </div>
-
-                    <div class="curso-diseño">
-                        <img src="assets/img/diseño_login.png">
-                        <h3>Diseño</h3> 
-                        <p>Patrones de arquitectura, Prototipado de UI</p>                   
-                    </div>
-
-                    <div class="curso-desarrollo">
-                        <img src="assets/img/desarrollo_login.png">
-                        <h3>Desarrollo</h3> 
-                        <p>Lógica de programación, Bases de datos SQL</p>
-                    </div>
+    <main class="main">
+        <aside class="aside">
+            <h2 class="aside__titulo">¿Todavía no eres alumno en WisdomDev?</h2> 
+            <section class="cursos">        
+                <div class="curso curso__analisis"> 
+                    <img class="curso__imagen" src="assets/img/analisis_login.png" alt="Logo análisis">
+                    <h3 class="curso__titulo">Análisis</h3>
+                    <p class="curso__parrafo curso__parrafo-analisis"> Análisis de requerimientos, Modelado de sistemas, Especificaciones técnicas</p> 
                 </div>
-                <div class="caja2">
-                    <div class="curso-pruebas">
-                        <img src="assets/img/pruebas_login.png">
-                        <h3>Pruebas</h3>  
-                        <p>Pruebas unitarias, Pruebas E2E</p>                     
-                    </div>
-                    <div class="curso-despliegue">
-                        <img src="assets/img/despliegue_login.png">
-                        <h3>Despliegue</h3>
-                        <p>Automatización, Gestión de versiones</p> 
-                    </div>
+                <div class="curso curso__diseño">
+                    <img class="curso__imagen" src="assets/img/diseño_login.png" alt="Logo diseño">
+                    <h3 class="curso__titulo">Diseño</h3> 
+                    <p class="curso__parrafo curso__parrafo-diseño">Patrones de arquitectura, Patrones de diseño, Prototipado de UI</p>                   
                 </div>
-            
+                <div class="curso curso__desarrollo">
+                    <img class="curso__imagen" src="assets/img/desarrollo_login.png" alt="Logo desarrollo">
+                    <h3 class="curso__titulo">Desarrollo</h3> 
+                    <p class="curso__parrafo curso__parrafo-desarrollo">Lógica de programación, Estructuras de Datos, POO, Bases de datos SQL</p>
+                </div>
+                <div class="curso curso__pruebas">
+                    <img class="curso__imagen" src="assets/img/pruebas_login.png" alt="Logo pruebas">
+                    <h3 class="curso__titulo">Pruebas</h3>  
+                    <p class="curso__parrafo curso__parrafo-pruebas">Pruebas de caja, Pruebas unitarias, Pruebas E2E</p>                     
+                </div>
+                <div class="curso curso__despliegue">
+                    <img class="curso__imagen" src="assets/img/despliegue_login.png" alt="Logo despliegue">
+                    <h3 class="curso__titulo">Despliegue</h3>
+                    <p class="curso__parrafo curso__parrafo-despliegue">Preparación del entorno, Gestión de versiones, Automatización</p> 
+                </div>
             </section>
-            
-            <!-- Sección de login -->
-            <section class="login">
-                <h2>¿Ya eres alumno?</h2>
-                <p>Realiza el login y obtén un excelente aprendizaje!</p>
-                <form>
-                    <label for="email">Correo electrónico</label>
-                    <div class="input-icon">
-                        <img src="assets/img/correo-electronico.png">
-                        <input type="email" id="email" placeholder="tu@pascualbravo.edu.co">
+            <section class="CTA">
+                <img class="CTA__imagen" src="assets/img/cohete.png">
+                <div class="CTA__texto">
+                    <p class="CTA__texto-medio">¿Sabes cuál es el mejor momento para comenzar?</p>
+                    <p class="CTA__texto-oscuro">Ahora!</p>
+                </div>
+            </section>
+        </aside> 
+        
+        <section class="login">
+            <div class="login__contenedor">
+                <div class="login__introduccion">
+                    <h2 class="login__introduccion-titulo">¿Ya eres alumno?</h2>
+                    <p class="login__introduccion-parrafo">¡Realiza el login y obtén un excelente aprendizaje!</p>
+                </div>
+        
+                <form class="login__formulario">
+                    <div class="login__formulario__email">
+                        <label class="login__formulario__etiqueta" for="email">Correo electrónico</label>
+                        <input class="login__formulario__input login__formulario__input-correo" type="email" id="email" placeholder="tu@pascualbravo.edu.co">
+                    </div>
+                    <div class="login__formulario__contraseña">
+                        <label class="login__formulario__etiqueta" for="password">Contraseña</label>
+                        <input class="login__formulario__input login__formulario__input-contraseña" type="password" id="password" placeholder="********">
                     </div>
                     
-                    <label for="password">Contraseña</label>
-                    <div class="input-icon">
-                        <img src="assets/img/cerrar-con-llave.png">
-                        <input type="password" id="password" placeholder="********">
+                    <button class="login__formulario__btn" type="submit">Iniciar Sesión</button>
+                    
+                    <div class="login__formulario__recuperar">
+                        <p class="login__formulario__parrafo">¿Olvidaste tu contraseña?</p>
+                        <a class="login__formulario__link" href="#">Recuperar</a>
                     </div>
-                    
-                    <button type="submit">Iniciar Sesión</button>
-                    
-                    <p><a href="#">¿Olvidaste tu contraseña? Recuperar</a></p>
                 </form>
-            </section>
-        </div>
-        
-        <!-- Sección de mensaje -->
-        <div class="Mensaje">
-            <img src="assets/img/cohete.png">
-            <div class="Mensaje-texto">
-                <p>¿Sabes cuál es el mejor momento para comenzar?</p>
-                <span>Ahora</span>
             </div>
-        </div>
-
+        </section> 
     </main>
     
-    <div class="social-icons">
-        <img src="assets/img/facebook.png">
-        <img src="assets/img/instagram.png">
-        <img src="assets/img/pascual.png">
-        <img src="assets/img/youtube.png">
-        <img src="assets/img/x.png">
-    </div>
+    <footer class="footer">
+        <a class="footer__link" href="https://www.facebook.com">
+            <img class="footer__logo" src="./assets/img/facebook.png" alt="Logo facebook">
+        </a>
+        <a class="footer__link" href="https://www.instagram.com">
+            <img  class="footer__logo" src="./assets/img/instagram.png" alt="Logo instagram">
+        </a>
+        <a class="footer__link" href="https://pascualbravo.edu.co">
+             <img class="footer__logo footer__logo-pascual" src="./assets/img/pascual.png" alt="Logo Institución Universitaria Pascual Bravo">
+        </a> 
+        <a class="footer__link" href="https://www.youtube.com">
+            <img class="footer__logo" src="./assets/img/youtube.png" alt="Logo Youtube">
+        </a>
+        <a class="footer__link" href="https://x.com/home?lang=es">
+            <img class="footer__logo" src="./assets/img/x.png" alt="Logo X">
+        </a>
+    </footer>
 </body>
 </html>

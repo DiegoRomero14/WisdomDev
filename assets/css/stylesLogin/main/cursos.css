@@ -1,0 +1,57 @@
+.cursos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 2.5rem;
+}
+
+.curso {
+    font-family: var(--fuenteFiraSans);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .5rem;
+    width: 30%;
+    text-align: center;
+    margin-bottom: 3.25rem;
+    padding: .5rem .75rem;
+    transition: transform .3s ease;
+}
+
+.curso:hover{
+    transform: scale(1.05);
+    cursor: -webkit-grab;
+}
+
+.curso__imagen {
+    height: 50px;
+    width: 50px;
+}
+
+.curso__titulo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--blanco);
+}
+
+.curso__parrafo {
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.curso__analisis {background-color: var(--colorAnalisis); border-top: .5rem solid var(--analisisCard);}
+.curso__parrafo-analisis {color: var(--analisisCard);}
+
+.curso__diseño {background-color: var(--colorDiseño); border-top: .5rem solid var(--diseñoCard);}
+.curso__parrafo-diseño {color: var(--diseñoCard);}
+
+.curso__desarrollo {background-color: var(--colorDesarrollo); border-top: .5rem solid var(--desarrolloCard);}
+.curso__parrafo-desarrollo {color: var(--desarrolloCard);}
+
+.curso__pruebas {background-color: var(--colorPruebas); border-top: .5rem solid var(--pruebasCard);}
+.curso__parrafo-pruebas {color: var(--pruebasCard);}
+
+.curso__despliegue {background-color: var(--colorDespliegue); border-top: .5rem solid var(--despliegueCard);}
+.curso__parrafo-despliegue {color: var(--despliegueCard);}
+

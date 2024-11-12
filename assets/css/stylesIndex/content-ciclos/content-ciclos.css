@@ -41,7 +41,6 @@
     opacity: 1; 
 }
 
-
 .inner-box:hover {
     transform: scale(1.05);
 }

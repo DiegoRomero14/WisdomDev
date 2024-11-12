@@ -1,0 +1,131 @@
+.login {
+    width: 40%;
+    height: 100%;
+}
+
+.login__contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3rem;
+    padding: 3rem;
+    border: 2px solid var(--grisClaro);
+    border-radius: 15px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.login__introduccion {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    color: var(--gris);
+}
+
+.login__introduccion-titulo {
+    font-family: var(--fuenteFiraSans);
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.login__introduccion-parrafo {
+    font-family: var(--fuenteSalsa);
+    font-size: 1.25rem;
+    text-align: center;
+    padding: 0 2rem;
+    margin-bottom: 1rem;
+}
+
+.login__formulario {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    gap: 2rem;
+    width: 100%;
+}
+
+.login__formulario__email {
+    display: flex;
+    flex-direction: column;
+}
+
+.login__formulario__contraseña {
+    display: flex;
+    flex-direction: column;
+}
+
+.login__formulario__etiqueta {
+    font-family: var(--fuenteHind);
+    font-weight: 500;
+    font-size: 1.25rem;
+    color: var(--gris);
+    margin: .5rem 0;
+}
+
+.login__formulario__input {
+    height: 2.5rem;
+    border: 2px solid var(--grisClaro);
+    border-radius: 15px;
+    font-size: 1.125rem;
+}
+
+.login__formulario__input-correo {
+    background-image: url('../../../img/correo-electronico.png');
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    background-size: 25px;
+    padding-left: 40px;
+}
+
+.login__formulario__input-contraseña {
+    background-image: url('../../../img/cerrar-con-llave.png');
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    background-size: 25px;
+    padding-left: 40px;
+}
+
+.login__formulario__btn {
+    background-color: var(--colorPrimario);
+    font-family: var(--fuenteHind);
+    font-weight: 600;
+    font-size: 1.175rem;
+    text-align: center;
+    color: var(--blanco);
+    margin: 1.5rem 0;
+    align-self: center;
+    width: 75%;
+    height: 3rem;
+    border-radius: 15px;
+    border: none;
+    background-image: url(../../../img/arrowbtn.png); /*Ajustar animación de flecha*/
+    background-repeat: no-repeat;
+    background-position: 68% center;
+    background-size: 15px;
+    transition: all .4s ease;
+}
+
+.login__formulario__btn:hover{
+    transform: scale(1.03);
+    background-position: 72% center;
+}
+
+.login__formulario__recuperar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: var(--fuenteHind);
+    font-size: 1.1725rem;
+    color: var(--grisOscuro);
+}
+
+.login__formulario__parrafo {
+    font-weight: 300;
+}
+
+.login__formulario__link {
+    font-weight: bolder;
+    text-decoration: none;
+    color: var(--grisOscuro);
+}

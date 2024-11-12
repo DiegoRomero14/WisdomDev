@@ -1,0 +1,32 @@
+.CTA {
+    display: flex;
+    justify-content: space-around;
+    height: 140px;
+    background-color: var(--grisClaro);
+}
+
+.CTA__imagen {
+    width: 30%;
+    object-fit: contain;
+    height: auto;
+    padding: 1rem;
+}
+
+.CTA__texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 70%;
+    font-family: var(--fuenteFiraSans);
+    font-size: 1.75rem;
+    color: var(--gris);
+}
+
+.CTA__texto-medio {
+    font-weight: 500;
+}
+
+.CTA__texto-oscuro {
+    font-weight: bolder;
+}

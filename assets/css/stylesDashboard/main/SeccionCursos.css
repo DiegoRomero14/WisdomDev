@@ -1,0 +1,253 @@
+.titulo2-main{
+    color: var(--colorCuaternario);
+    margin-top: 90px;
+    text-align: center;
+    font-size: 1.8rem;
+    
+}
+
+.titulo2-main h3{
+    font-family: var(--fuenteFiraSans);
+}
+
+.container-cursos{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+
+}
+
+/*ANALISIS*/
+.container-cursos .left-section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: var(--colorSenario);
+    width: 25%;
+    transition: transform 0.3s ease; 
+}
+
+.left-section:hover{
+    transform: scale(1.1);
+}
+
+.container-cursos .left-section .text-left h2{
+    color: var(--blancoPrimario);
+    font-family: var(--fuenteFiraSans);
+}
+
+.container-cursos .right-section{
+    display: flex;
+    height: 105px;
+    justify-content:left;
+    align-items: center;
+    gap: 20px;
+    background-color: var(--colorSeptario);
+    width: 50%;
+    border-left: 3px solid var(--colorSenario);
+    
+}
+
+
+
+.container-cursos .right-section .text-right {
+    text-align:left;
+    margin-left: 15px;
+}
+
+.container-cursos .right-section .text-right p{
+    font-family: var(--fuenteHind);
+    color: var(--colorCuaternario);
+    font-weight: bold;
+}
+
+/*DISEÑO*/
+
+.container-cursos .left-section-diseno{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: var(--colorOctario);
+    width: 25%;
+    height: 100px;
+    transition: transform 0.3s ease; 
+}
+
+.left-section-diseno:hover{
+    transform: scale(1.1);
+}
+.container-cursos .left-section-diseno .text-left-diseno h2{
+    color: var(--blancoPrimario);
+    font-family: var(--fuenteFiraSans);
+}
+
+.container-cursos .right-section-diseno{
+    display: flex;
+    height: 105px;
+    justify-content:left;
+    align-items: center;
+    gap: 20px;
+    background-color: var(--colorSeptario);
+    width: 50%;
+    border-left: 3px solid var(--colorOctario);
+    
+}
+
+
+
+.container-cursos .right-section-diseno .text-right-diseno {
+    text-align:left;
+    margin-left: 15px;
+}
+
+.container-cursos .right-section-diseno .text-right-diseno p{
+    font-family: var(--fuenteHind);
+    color: var(--colorCuaternario);
+    font-weight: bold;
+}
+
+/*DESARROLLO*/
+
+.container-cursos .left-section-desarrollo{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: var(--colorNonario);
+    width: 25%;
+    height: 100px;
+    transition: transform 0.3s ease; 
+}
+
+.left-section-desarrollo:hover{
+    transform: scale(1.1);
+}
+
+.container-cursos .left-section-desarrollo .text-left-desarrollo h2{
+    color: var(--blancoPrimario);
+    font-family: var(--fuenteFiraSans);
+}
+
+.container-cursos .right-section-desarrollo{
+    display: flex;
+    height: 105px;
+    justify-content:left;
+    align-items: center;
+    gap: 20px;
+    background-color: var(--colorSeptario);
+    width: 50%;
+    border-left: 3px solid var(--colorNonario);
+   
+}
+
+
+.container-cursos .right-section-desarrollo .text-right-desarrollo {
+    text-align:left;
+    margin-left: 15px;
+}
+
+.container-cursos .right-section-desarrollo .text-right-desarrollo p{
+    font-family: var(--fuenteHind);
+    color: var(--colorCuaternario);
+    font-weight: bold;
+}
+
+/*PRUEBAS*/
+
+.container-cursos .left-section-pruebas{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: var(--colorDecimo);
+    width: 25%;
+    height: 100px;
+    transition: transform 0.3s ease; 
+}
+.left-section-pruebas:hover{
+    transform: scale(1.1);
+}
+.container-cursos .left-section-pruebas .text-left-pruebas h2{
+    color: var(--blancoPrimario);
+    font-family: var(--fuenteFiraSans);
+}
+
+.container-cursos .right-section-pruebas{
+    display: flex;
+    height: 105px;
+    justify-content:left;
+    align-items: center;
+    gap: 20px;
+    background-color: var(--colorSeptario);
+    width: 50%;
+    border-left: 3px solid var(--colorDecimo);
+    
+}
+
+
+.container-cursos .right-section-pruebas .text-right-pruebas {
+    text-align:left;
+    margin-left: 15px;
+}
+
+.container-cursos .right-section-pruebas .text-right-pruebas p{
+    font-family: var(--fuenteHind);
+    color: var(--colorCuaternario);
+    font-weight: bold;
+}
+
+/*DESPLIEGUE*/
+
+.container-cursos .left-section-despliegue{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: var(--colorUndecimo);
+    width: 25%;
+    height: 100px;
+    transition: transform 0.3s ease; 
+}
+.left-section-despliegue:hover{
+    transform: scale(1.1);
+}
+.container-cursos .left-section-despliegue .text-left-despliegue h2{
+    color: var(--blancoPrimario);
+    font-family: var(--fuenteFiraSans);
+}
+
+.container-cursos .right-section-despliegue{
+    display: flex;
+    height: 105px;
+    justify-content:left;
+    align-items: center;
+    gap: 20px;
+    background-color: var(--colorSeptario);
+    width: 50%;
+    border-left: 3px solid var(--colorUndecimo);
+    
+}
+
+.container-cursos .right-section-despliegue .text-right-despliegue {
+    text-align:left;
+    margin-left: 15px;
+}
+
+.container-cursos .right-section-despliegue .text-right-despliegue p{
+    font-family: var(--fuenteHind);
+    color: var(--colorCuaternario);
+    font-weight: bold;
+}

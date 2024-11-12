@@ -1,145 +1,149 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <title>WisdomDev | Cursos en línea</title>
+    <link rel="icon" type="image/svg+xml" href="assets/img/iconwd.png">
+    <link rel="stylesheet" href="assets/css/stylesIndex/header/header.css">
+    <link rel="stylesheet" href="assets/css/stylesIndex/header/sub-header.css">
+    <link rel="stylesheet" href="assets/css/stylesIndex/content-section/content-section.css">
+    <link rel="stylesheet" href="assets/css/stylesIndex/content-ciclos/content-ciclos.css">
+    <link rel="stylesheet" href="assets/css/stylesIndex/content-last-part/content-last-part.css">
+    <link rel="stylesheet" href="assets/css/stylesIndex/footer/footer.css">
 </head>
 <body>
-     <!-- Barra superiror -->
-    <div class="header">
+    <header class="header">
         <div class="titulo">
-          <img src="img/wisdomdev_white_removebg.png" alt="">
+          <img src="./assets/img/wisdomdev_white_removebg.png" alt="WisdomDev Logo">
         </div>
-        <nav >
+        <nav>
             <ul class="nav-links">
-               <li><a href="">FORMACIONES</a></li>
-               <li><a href="">INICIAR SESIÓN</a></li>
+               <li class="nav-links__enlaces"><a href="#formaciones">FORMACIONES</a></li>
+               <li class="nav-links__enlaces"><a href="login.html">INICIAR SESIÓN</a></li>
             </ul>
          </nav>
-    </div>
-
-     <!-- segunda barra  -->
+    </header>
    <div class="sub-header">
       <ul class="sub-nav-links">
-        <li><a href="">ANALISIS</a></li>
-        <li><a href="">DISEÑO</a></li>
-        <li><a href="">DESARROLLO</a></li>
-        <li><a href="">PRUEBAS</a></li>
-        <li><a href="">DESPLIEGUE</a></li>
+        <li><a href="#">ANÁLISIS</a></li>
+        <li><a href="#">DISEÑO</a></li>
+        <li><a href="#">DESARROLLO</a></li>
+        <li><a href="#">PRUEBAS</a></li>
+        <li><a href="#">DESPLIEGUE</a></li>
       </ul>
    </div>
-    <!-- texto e imagen -->
-   <div class="content-section">
+
+   <section class="content-section">
         <div class="text-content">
             <h2>Transforma tu futuro en el desarollo de software con <span class="wisdomdev">WisdomDev</span></h2>
-            <br>
             <p>En WisdomDev te guiamos en cada fase del ciclo de vida del software, desde el análisis hasta la implementación. Aprende de forma práctica y adquiere las habilidades clave para destacar como desarrollador.</p>
+            <p>¡Transforma tu pasión en un futuro exitoso con nosotros!</p>
         </div>
         <div class="imagen-content">
-            <img src="img/minimalistpc_removebg.png" alt="">
+            <img src="./assets/img/minimalistpc_removebg.png" alt="Imagen de referencia de computadora">
         </div>
-   </div>
-   <!-- ciclos -->
-    <div class="content-ciclos">
+   </section>
+
+    <section id="formaciones" class="content-ciclos">
         <div class="titulo-ciclos"> <h1>¡Explora nuestras formaciones!</h1> </div>
 
        <div class="inner-box">
           <div class="img-cuadro">
-             <img src="img/analisis_removebg.png" alt="">
+             <img src="./assets/img/analisis_removebg.png" alt="Logo referencia al análisis">
           </div>
           <div class="texto-cuadro">
-             <p>Ciclo</p>
-             <p>ANALISIS</p>
+             <p class="texto-cuadro__ciclo">Ciclo_</p>
+             <p class="texto-cuadro__nombre">ANÁLISIS</p>
         </div>
            <div class="popup-text">
-              <p>Identificar y documentar las necesidades y requisitos del cliente. Aquí, se define qué debe hacer el sistema, cómo interactuará con los usuarios y otras aplicaciones, y se establece una base sólida para el diseño y desarrollo posterior. </p>
+              <p>Se identifican y documentan los requisitos del sistema, entendiendo las necesidades del cliente para asegurar que el software cumpla con sus expectativas y objetivos.</p>
            </div>
        </div>
        
        <div class="inner-box">
             <div class="img-cuadro">
-                <img src="img/diseño_removebg.png" alt="">
+                <img src="./assets/img/diseño_removebg.png" alt="Logo referencia al diseño">
             </div>
             <div class="texto-cuadro-diseño">
-               <p>Ciclo</p>
-               <p>DISEÑO</p>
+               <p class="texto-cuadro__ciclo">Ciclo_</p>
+               <p class="texto-cuadro__nombre">DISEÑO</p>
             </div>
             <div class="popup-text">
-                <p>enfocada en la planificación, creación y organización de la estructura del sistema o aplicación que se va a construir</p>
+                <p>Se define la estructura del software, detallando su arquitectura, interfaces y componentes, para establecer una base sólida que guíe la implementación.</p>
             </div>
        </div>
        <div class="inner-box">
             <div class="img-cuadro">
-              <img src="img/desarrollo_removebg.png" alt="">
+              <img src="./assets/img/desarrollo_removebg.png" alt="Logo referencia al desarrollo">
             </div>
             <div class="texto-cuadro-desarrollo">
-               <p>Ciclo</p>
-               <p>DESARROLLO</p>
+               <p class="texto-cuadro__ciclo">Ciclo_</p>
+               <p class="texto-cuadro__nombre">DESARROLLO</p>
           </div>
            <div class="popup-text">
-            <p>describe el proceso completo desde la concepción de una idea hasta su entrega como producto final. Dependiendo del enfoque (cascada, ágil, etc.), puede ser más lineal o iterativo,</p>
+            <p>Se construye el software, traduciendo el diseño en código funcional, donde cada componente se implementa y se integra para formar el sistema completo.</p>
            </div>
        </div>
        <div class="inner-box">
             <div class="img-cuadro">
-               <img src="img/pruebas_removebg.png" alt="">
+               <img src="./assets/img/pruebas_removebg.png" alt="Logo referencia a las pruebas">
             </div>
             <div class="texto-cuadro-pruebas">
-               <p>Ciclo</p>
-               <p>PRUEBAS</p>
+               <p class="texto-cuadro__ciclo">Ciclo_</p>
+               <p class="texto-cuadro__nombre">PRUEBAS</p>
           </div>
           <div class="popup-text">
-            <p>tiene como objetivo garantizar que el software cumpla con los requisitos especificados y esté libre de defectos.</p>
+            <p>Se verifica que el software funcione correctamente y cumpla con los requisitos, detectando y corrigiendo errores para asegurar su calidad.</p>
           </div>
        </div>
        <div class="inner-box">
             <div class="img-cuadro">
-               <img src="img/despliegue_removebg.png" alt="">
+               <img src="./assets/img/despliegue_removebg.png" alt="Logo referencia al despliegue">
             </div>
             <div class="texto-cuadro-despliegue">
-               <p>Ciclo</p>
-                 <p>ANALISIS</p>
+                <p class="texto-cuadro__ciclo">Ciclo_</p>
+                <p class="texto-cuadro__nombre">DESPLIEGUE</p>
             </div>
             <div class="popup-text">
-                <p> implica la implementación del software en un entorno de producción donde será utilizado por los usuarios finales. </p>
+                <p>Se pone el software en producción, haciendo que esté disponible para el usuario final, y se realiza el monitoreo inicial para asegurar su correcto funcionamiento en el entorno real.</p>
             </div>
        </div>
-    </div>
-    
-    <!-- last part -->
-    
-    <div class="content-last-part">     
+    </section>
+        
+    <section class="content-last-part">     
 
          <div class="imagen-content-last-part">
-            <img src="img/bg.jpg" alt="">
+            <img src="./assets/img/bg.jpg" alt="Imagen de personas codificando">
          </div>
 
          <div class="text-content-last-part">
-            <h2>¡Conviértete en un experto en ingeniería de software con <span class="wisdomdev-last">WisdomDev!</span></h2>
-            <br>
-            <p>Únete a nuestra comunidad y lleva tu carrera al siguiente nivel con las herramientas y conocimientos que necesitas.</p>
+            <div class="text-content-last-part__titulo">
+                <h2 class="text-content-last-part__titulo-azul">¡Conviértete en un experto en ingeniería de software con <span class="">WisdomDev!</span></h2>
+            </div>
+            <div class="text-content-last-part__parrafo">
+                <p>Únete a nuestra comunidad y lleva tu carrera al siguiente nivel con las herramientas y conocimientos que necesitas.</p>
+            </div>   
+            <a class="text-content-last-part__boton" href="login.html">Únete ahora!</a>
          </div>   
-    </div>
+    </section>
    
-    <div class="footer-bar">
+    <footer class="footer">
         <a href="https://www.facebook.com">
-            <img class="logo" src="img/facebook.png" alt="">
+            <img class="logo" src="./assets/img/facebook.png" alt="Logo facebook">
         </a>
         <a href="https://www.instagram.com">
-            <img  class="logo" src="img/instagram.png" alt="">
+            <img  class="logo" src="./assets/img/instagram.png" alt="Logo instagram">
         </a>
         <a href="https://pascualbravo.edu.co">
-             <img class="logoPascual" src="img/pascual.png" alt="">
+             <img class="logoPascual" src="./assets/img/pascual.png" alt="Logo Institución Universitaria Pascual Bravo">
         </a> 
         <a href="https://www.youtube.com">
-            <img class="logo" src="img/youtube.png" alt="">
+            <img class="logo" src="./assets/img/youtube.png" alt="Logo Youtube">
         </a>
         <a href="https://x.com/home?lang=es">
-            <img class="logo" src="img/gorjeo.png" alt="">
+            <img class="logo" src="./assets/img/x.png" alt="Logo X">
         </a>
-    </div>
-    <script src="home.js"></script>
+    </footer>
 </body>
 </html>

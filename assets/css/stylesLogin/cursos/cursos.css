@@ -1,0 +1,74 @@
+
+
+
+.cursos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 70%;
+    margin-left: 100px;
+    
+}
+
+.caja1, .caja2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%; /* Asegura que ocupe el espacio completo */
+    margin: 10px 0;
+}
+
+.caja1 div, .caja2 div {
+    padding: 15px;
+    border-radius: 5px;
+    width: 30%; /* Ajusta el ancho para organizar en filas */
+    min-width: 200px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.caja1 h3{
+    font-family: var(--fuenteFiraSans);
+    color: var(--blancoPrimario);
+}
+.caja2 h3{
+    font-family: var(--fuenteFiraSans);
+    color: var(--blancoPrimario);
+}
+
+.caja1 p{
+    color:var(--blancoPrimario);
+}
+.caja2 p{
+    color:var(--blancoPrimario);
+}
+.curso-analisis { 
+    background-color: var(--colorSecundario); 
+ }
+ 
+.curso-diseño { 
+    background-color: var(--colorTerciario); 
+ }
+.curso-desarrollo { 
+    background-color: var(--colorCuaternario); 
+ }
+.curso-pruebas { 
+    background-color: var(--colorQuinario);
+ }
+.curso-despliegue { 
+    background-color: var(--colorSextario);
+ }
+
+.caja1 div img {
+    max-width: 40px;
+    margin-bottom: 10px;
+}
+
+.caja1 div h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.caja1 div p {
+    font-size: 0.9em;
+}

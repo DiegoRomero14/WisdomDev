@@ -1,0 +1,89 @@
+.login {
+    background-color: var(--blancoPrimario);
+    width: 35%;
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-right: 100px;
+    text-align: center; 
+}
+
+.login h2 {
+    
+    margin: 0; 
+    margin-bottom: 10px; 
+    text-align: center;
+}
+
+.login p {
+    text-align: center;
+    color: var(--colorSeptario);
+    margin-bottom: 25px;
+    font-family: var(--fuenteHind);
+}
+
+.login form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login label {
+    margin-bottom: 5px;
+    color: var(--colorSeptario);
+    font-family: var(--fuenteHind);
+}
+
+.login input {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.login button {
+    padding: 10px;
+    background-color: var(--colorOctenario);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.login button:hover {
+    background-color: var(--colorOctenario);
+}
+
+.login p a {
+    color: var(--colorOctenario);
+    text-decoration: none;
+}
+/* iconos de correo y candado */
+.input-icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 15px;
+    top:5px;
+}
+
+.input-icon img {
+    position: absolute;
+    left: 10px; /* Ajusta la distancia del ícono al borde izquierdo */
+    width: 20px; /* Tamaño del ícono */
+    height: 20px;
+    top:10px;
+    opacity: 0.6; /* Hace que el ícono sea un poco más tenue */
+}
+
+.input-icon input {
+    width: 100%;
+    padding: 10px 10px 10px 40px; /* Espacio para el ícono en la izquierda */
+    font-size: 16px;
+    border: 1px solid #ccc; /* Borde similar al de la imagen */
+    border-radius: 5px; /* Bordes redondeados */
+    box-sizing: border-box;
+    color: #888; /* Color del texto */
+}

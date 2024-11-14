@@ -1,0 +1,30 @@
+.big-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    background-color: var(--colorOctario);
+    height: 28rem;
+}
+
+.imagen-card img{
+    width: 250px; /* Ajusta el ancho de la imagen */
+    height: auto; 
+}
+.text-card{
+flex-direction: column;
+}
+
+.text-card1 p{
+    font-family: var(--fuenteFiraSans);
+    color: var(--blancoPrimario);
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.text-card2 p{
+    font-family: var(--fuenteFiraSans);
+    color: var(--blancoPrimario);
+    font-weight: bold;
+    font-size: 2.5rem;
+}

@@ -1,0 +1,73 @@
+h3{
+    font-family: var(--fuenteFiraSans);
+    color: var(--colorCuaternario);
+    margin-left: 3rem;
+}
+/* Estilos generales de la tarjeta */
+.curso-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    width: 35rem;
+    font-family: var(--fuenteFiraSans);
+    background-color: var(--blancoPrimario);
+    margin-left: 4rem;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Título */
+.curso-titulo {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+/* Barra de progreso */
+.curso-progreso {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.curso-progreso-barra {
+    width: 80%;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 10px;
+    margin-right: 10px;
+   
+}
+
+.curso-progreso-barra-llenado {
+    width: 50%; /* Ajusta el porcentaje según el progreso */
+    background-color: #4caf50;
+    height: 100%;
+}
+
+.curso-progreso-porcentaje {
+    font-size: 0.9em;
+    color: #666;
+}
+
+/* Información adicional */
+.curso-info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.curso-info-item {
+    text-align: center;
+    font-size: 0.9em;
+    color: #333;
+}
+
+.curso-icono {
+    font-size: 1.5em;
+    color: #888;
+}

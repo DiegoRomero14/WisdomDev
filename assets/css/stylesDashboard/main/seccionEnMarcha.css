@@ -39,6 +39,7 @@ h2{
 .curso-progreso-barra{
     background-color: #7EE195;
     height: 100%;
+    
 }
 
 .curso-progreso-porcentaje{
@@ -46,7 +47,8 @@ h2{
     top: -20px;
     right: 10px;
     font-size: 0.9rem;
-    color: var(--colorCuaternario)
+    color: var(--colorCuaternario);
+   
 }
 
 .curso-contenido{

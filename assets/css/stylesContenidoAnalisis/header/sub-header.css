@@ -1,0 +1,17 @@
+.sub-header{
+    background: var(--colorPrimario); 
+    height: 50px;
+    display: flex;
+    justify-content:left; 
+    align-items:center;
+    width: 100%;
+}
+
+.sub-header h3{
+    color: var(--blancoPrimario);
+    font-family: var(--fuenteFiraSans);
+}
+
+.sub-header .titulo-sub-header{
+    margin-left: 200px;
+}

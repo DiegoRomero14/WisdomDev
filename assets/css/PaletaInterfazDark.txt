@@ -1,0 +1,9 @@
+#222629 Barra lateral superior
+#181C1F Barra lateral cuerpo
+#333333 Barra superior y destaque contenido
+#121212 Cuerpo contenido
+#FFFFFF Texto Destaque
+#AEAEAE Texto semi
+#485257 Texto oscuro
+#9DE482 Color tarea completada
+#282C2F Barra Aula Actual

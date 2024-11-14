@@ -27,7 +27,7 @@
     font-family: Arial, sans-serif;
 }
 
-header{
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -36,23 +36,20 @@ header{
    background-color: var(--colorSecundario);
 }
 
-header img{
+.header__imagen {
     max-height: 150px;
 }
 
-header nav ul{
+.nav-links {
     list-style: none;
     display: flex;
     gap:50px;
     align-items: center;
     padding: 0;
     margin: 0;
-    
 }
 
- 
-
-header .nav-links__enlaces a{
+.nav-links__enlaces {
     text-decoration: none;
     color: var(--blancoPrimario);
     font-family: var(--fuenteHind);

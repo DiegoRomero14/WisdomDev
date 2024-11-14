@@ -1,8 +1,9 @@
-h3{
+h3 {
     font-family: var(--fuenteFiraSans);
     color: var(--colorCuaternario);
     margin-left: 3rem;
 }
+
 /* Estilos generales de la tarjeta */
 .curso-card {
     border: 1px solid #ddd;
@@ -39,7 +40,6 @@ h3{
     overflow: hidden;
     height: 10px;
     margin-right: 10px;
-   
 }
 
 .curso-progreso-barra-llenado {

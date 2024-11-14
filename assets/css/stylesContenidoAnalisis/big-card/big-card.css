@@ -11,8 +11,9 @@
     width: 250px; /* Ajusta el ancho de la imagen */
     height: auto; 
 }
+
 .text-card{
-flex-direction: column;
+    flex-direction: column;
 }
 
 .text-card1 p{

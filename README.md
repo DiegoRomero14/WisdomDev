@@ -4,10 +4,13 @@
 ---
 
 ## 📋 Tabla de Contenidos
-1. [Propósito](#-propósito)  
-2. [Características principales](#-características-principales)  
-3. [Tecnologías utilizadas](#-tecnologías-utilizadas)  
-4. [Descarga el repositorio](#-descarga-el-repositorio)  
+1. [Propósito](#-propósito)
+2. [Características principales](#-características-principales)
+3. [Tecnologías utilizadas](#-tecnologías-utilizadas)
+4. [Descarga el repositorio](#-descarga-el-repositorio)
+5. [Diseño en Figma](#-diseño-en-figma)
+6. [DevOps en Azure](#-devops-en-azure)
+
 
 ---
 

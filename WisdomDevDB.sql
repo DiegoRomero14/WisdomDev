@@ -59,7 +59,7 @@ CREATE TABLE Curso (
 	idCiclo INT,
     nombreCurso VARCHAR(100),
 	cargaHoraria VARCHAR(3),
-	ultimaActualizacion DATE,
+	ultimaActualizacion DATE DEFAULT GETDATE(),
 	autor VARCHAR(100),
 	alumnos INT,
     descripcion VARCHAR(500),
@@ -107,9 +107,9 @@ SELECT * FROM CuentaEstudiante;
 --
 INSERT INTO CuentaAdministrador (idUsuarioAdministrador, correo, contraseña)
 VALUES 
-(2, 'juan.alvarez@pascualbravo.edu.co', '1020987123'),
-(4, 'jaider.rios@pascualbravo.edu.co', '1030654123'),
-(6, 'diego.romero@pascualbravo.edu.co', '1010279123');
+(1, 'juan.alvarez@pascualbravo.edu.co', '1020987123'),
+(2, 'jaider.rios@pascualbravo.edu.co', '1030654123'),
+(3, 'diego.romero@pascualbravo.edu.co', '1010279123');
 
 SELECT * FROM CuentaAdministrador;
 
@@ -131,7 +131,3 @@ VALUES
 (3,'Lógica de programación y buenas prácticas', '6h', 'Jaider Rios', 0, '');
 
 SELECT * FROM Curso;
-
-/*INSERT INTO CuentaCurso (idCuentaEstudiante, idCurso)
-VALUES
-(1, 1);*/

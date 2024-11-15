@@ -1,0 +1,29 @@
+﻿.sub-header {
+    background: var(--gradiente); /* Color diferente para diferenciarla */
+    height: 50px; /* Menor altura */
+    display: flex;
+    justify-content: center; /* Centrar los elementos de la barra */
+    align-items: center;
+    width: 100%;
+}
+
+    .sub-header .sub-nav-links {
+        list-style: none;
+        display: flex;
+        gap: 190px;
+        cursor: default;
+    }
+
+        .sub-header .sub-nav-links li {
+            display: inline-block;
+            cursor: default !important;
+        }
+
+        .sub-header .sub-nav-links a {
+            font-family: var(--fuenteSalsa);
+            color: var(--blancoPrimario);
+            text-decoration: none;
+            font-size: 16px;
+            cursor:default !important;
+            pointer-events:auto;
+        }

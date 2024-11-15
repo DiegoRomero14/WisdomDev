@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WisdomDev.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WisdomDev.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoAnalisis\\Boton\\boton.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoAnalisis\\Boton\\boton.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoAnalisis\\big-card\\big-card.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoAnalisis\\big-card\\big-card.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoAnalisis\\contenido\\contenido-card.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoAnalisis\\contenido\\contenido-card.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoAnalisis\\contenido\\contenido.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoAnalisis\\contenido\\contenido.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoAnalisis\\footer\\footer.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoAnalisis\\footer\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoAnalisis\\header\\header.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoAnalisis\\header\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoAnalisis\\header\\sub-header.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoAnalisis\\header\\sub-header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDesarrollo\\big-card\\big-card.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDesarrollo\\big-card\\big-card.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDesarrollo\\boton\\boton.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDesarrollo\\boton\\boton.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDesarrollo\\contenido\\contenido-card.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDesarrollo\\contenido\\contenido-card.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDesarrollo\\contenido\\contenido.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDesarrollo\\contenido\\contenido.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDesarrollo\\footer\\footer.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDesarrollo\\footer\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDesarrollo\\header\\header.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDesarrollo\\header\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDesarrollo\\header\\sub-header.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDesarrollo\\header\\sub-header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDiseño\\big-card\\big-card.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDiseño\\big-card\\big-card.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDiseño\\boton\\boton.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDiseño\\boton\\boton.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDiseño\\contenido\\contenido-card.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDiseño\\contenido\\contenido-card.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDiseño\\contenido\\contenido.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDiseño\\contenido\\contenido.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDiseño\\footer\\footer.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDiseño\\footer\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDiseño\\header\\header.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDiseño\\header\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesContenidoDiseño\\header\\sub-header.css",
+      "PackagePath": "staticwebassets\\css\\stylesContenidoDiseño\\header\\sub-header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesDashboard\\footer\\footer.css",
+      "PackagePath": "staticwebassets\\css\\stylesDashboard\\footer\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesDashboard\\header\\header.css",
+      "PackagePath": "staticwebassets\\css\\stylesDashboard\\header\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesDashboard\\header\\sub-header.css",
+      "PackagePath": "staticwebassets\\css\\stylesDashboard\\header\\sub-header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesDashboard\\main\\seccionCursos.css",
+      "PackagePath": "staticwebassets\\css\\stylesDashboard\\main\\seccionCursos.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesDashboard\\main\\seccionEnMarcha.css",
+      "PackagePath": "staticwebassets\\css\\stylesDashboard\\main\\seccionEnMarcha.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesIndex\\content-ciclos\\content-ciclos.css",
+      "PackagePath": "staticwebassets\\css\\stylesIndex\\content-ciclos\\content-ciclos.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesIndex\\content-last-part\\content-last-part.css",
+      "PackagePath": "staticwebassets\\css\\stylesIndex\\content-last-part\\content-last-part.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesIndex\\content-section\\content-section.css",
+      "PackagePath": "staticwebassets\\css\\stylesIndex\\content-section\\content-section.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesIndex\\footer\\footer.css",
+      "PackagePath": "staticwebassets\\css\\stylesIndex\\footer\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesIndex\\header\\header.css",
+      "PackagePath": "staticwebassets\\css\\stylesIndex\\header\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesIndex\\header\\sub-header.css",
+      "PackagePath": "staticwebassets\\css\\stylesIndex\\header\\sub-header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesLogin\\footer\\footer.css",
+      "PackagePath": "staticwebassets\\css\\stylesLogin\\footer\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesLogin\\header\\header.css",
+      "PackagePath": "staticwebassets\\css\\stylesLogin\\header\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesLogin\\main\\CTA.css",
+      "PackagePath": "staticwebassets\\css\\stylesLogin\\main\\CTA.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesLogin\\main\\aside.css",
+      "PackagePath": "staticwebassets\\css\\stylesLogin\\main\\aside.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesLogin\\main\\cursos.css",
+      "PackagePath": "staticwebassets\\css\\stylesLogin\\main\\cursos.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesLogin\\main\\login.css",
+      "PackagePath": "staticwebassets\\css\\stylesLogin\\main\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\css\\stylesLogin\\main\\main.css",
+      "PackagePath": "staticwebassets\\css\\stylesLogin\\main\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\SSVideo.png",
+      "PackagePath": "staticwebassets\\img\\SSVideo.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\SSdiferencias.png",
+      "PackagePath": "staticwebassets\\img\\SSdiferencias.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\analisis_login.png",
+      "PackagePath": "staticwebassets\\img\\analisis_login.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\analisis_removebg.png",
+      "PackagePath": "staticwebassets\\img\\analisis_removebg.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\arrow.png",
+      "PackagePath": "staticwebassets\\img\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\arrowbtn.png",
+      "PackagePath": "staticwebassets\\img\\arrowbtn.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\arrownext.png",
+      "PackagePath": "staticwebassets\\img\\arrownext.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\books.png",
+      "PackagePath": "staticwebassets\\img\\books.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\campana.png",
+      "PackagePath": "staticwebassets\\img\\campana.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\cerrar-con-llave.png",
+      "PackagePath": "staticwebassets\\img\\cerrar-con-llave.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\clases.png",
+      "PackagePath": "staticwebassets\\img\\clases.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\cohete.png",
+      "PackagePath": "staticwebassets\\img\\cohete.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\contenido.png",
+      "PackagePath": "staticwebassets\\img\\contenido.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\correo-electronico.png",
+      "PackagePath": "staticwebassets\\img\\correo-electronico.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\desarrollo_login.png",
+      "PackagePath": "staticwebassets\\img\\desarrollo_login.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\desarrollo_removebg.png",
+      "PackagePath": "staticwebassets\\img\\desarrollo_removebg.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\despliegue_login.png",
+      "PackagePath": "staticwebassets\\img\\despliegue_login.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\despliegue_removebg.png",
+      "PackagePath": "staticwebassets\\img\\despliegue_removebg.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\diseno.png",
+      "PackagePath": "staticwebassets\\img\\diseno.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\diseño_login.png",
+      "PackagePath": "staticwebassets\\img\\diseño_login.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\diseño_removebg 1.png",
+      "PackagePath": "staticwebassets\\img\\diseño_removebg 1.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\diseño_removebg.png",
+      "PackagePath": "staticwebassets\\img\\diseño_removebg.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\enlace.png",
+      "PackagePath": "staticwebassets\\img\\enlace.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\flag.png",
+      "PackagePath": "staticwebassets\\img\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\foro.png",
+      "PackagePath": "staticwebassets\\img\\foro.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\iconwd.png",
+      "PackagePath": "staticwebassets\\img\\iconwd.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\logoINICIA_removebg.png",
+      "PackagePath": "staticwebassets\\img\\logoINICIA_removebg.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\minimalistpc_removebg.png",
+      "PackagePath": "staticwebassets\\img\\minimalistpc_removebg.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\pascual.png",
+      "PackagePath": "staticwebassets\\img\\pascual.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\pensando.png",
+      "PackagePath": "staticwebassets\\img\\pensando.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\play.png",
+      "PackagePath": "staticwebassets\\img\\play.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\pruebas_login.png",
+      "PackagePath": "staticwebassets\\img\\pruebas_login.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\pruebas_removebg.png",
+      "PackagePath": "staticwebassets\\img\\pruebas_removebg.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\requerimiento.png",
+      "PackagePath": "staticwebassets\\img\\requerimiento.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\usuario.png",
+      "PackagePath": "staticwebassets\\img\\usuario.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\video.png",
+      "PackagePath": "staticwebassets\\img\\video.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\wisdomdev_white_removebg.png",
+      "PackagePath": "staticwebassets\\img\\wisdomdev_white_removebg.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\x.png",
+      "PackagePath": "staticwebassets\\img\\x.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\img\\youtube.png",
+      "PackagePath": "staticwebassets\\img\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\darom\\source\\repos\\WisdomDev\\WisdomDev\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WisdomDev.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WisdomDev.props",
+      "PackagePath": "build\\WisdomDev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WisdomDev.props",
+      "PackagePath": "buildMultiTargeting\\WisdomDev.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WisdomDev.props",
+      "PackagePath": "buildTransitive\\WisdomDev.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

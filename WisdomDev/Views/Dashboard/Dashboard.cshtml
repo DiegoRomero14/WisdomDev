@@ -1,0 +1,173 @@
+﻿
+@{
+	ViewData["Title"] = "Dashboard";
+	Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="~/css/stylesDashboard/footer/footer.css">
+    <link rel="stylesheet" href="~/css/stylesDashboard/header/header.css">
+    <link rel="stylesheet" href="~/css/stylesDashboard/header/sub-header.css">
+    <link rel="stylesheet" href="~/css/stylesDashboard/main/seccionCursos.css">
+    <link rel="stylesheet" href="~/css/stylesDashboard/main/seccionEnMarcha.css">
+</head>
+<body>
+    <header class="header">
+        <div class="titulo">
+            <a asp-action="Index" asp-controller="Home">
+                <img src="~/img/wisdomdev_white_removebg.png" alt="WisdomDev Logo">
+            </a>
+        </div>
+        <nav>
+            <ul class="nav-links">
+                <li class="nav-links__enlaces"><a href="formaciones">MI APRENDIZAJE</a></li>
+                <li class="nav-links__enlaces"><a href="notificaciones"><i class="fa-solid fa-bell"></i></a></li>
+                <li class="nav-links__enlaces"><a href="user"><i class="fa-solid fa-user"></i> USER</a></li>
+        </nav>
+    </header>
+    <div class="sub-header">
+        <div class="titulo-sub-header">
+            <h3>DASHBOARD</h3>
+        </div>
+    </div>
+    <main>
+        <div class="titulo-main">
+            <h2>Mis cursos en marcha</h2>
+        </div>
+        <div class="cursos-container">
+            <div class="curso-card">
+                <div class="curso-progreso">
+                    <div class="curso-progreso-barra"></div>
+                    <span class="curso-progreso-porcentaje">50%</span>
+                </div>
+                <div class="curso-contenido">
+                    <img src="~/img/requerimiento.png" alt="">
+                    <h3>Analisis: Requerimientos funcionales y no funcionales</h3>
+                </div>
+                <div class="curso-botones">
+                    <button class="boton-contenido">VER CONTENIDO DEL CURSO</button>
+                    <button class="boton-continuar">CONTINUAR CON EL CURSO</button>
+                </div>
+            </div>
+            <div class="curso-card">
+                <div class="curso-progreso">
+                    <div class="curso-progreso-barra"></div>
+                    <span class="curso-progreso-porcentaje">50%</span>
+                </div>
+                <div class="curso-contenido">
+                    <img src="~/img/diseno.png" alt="">
+                    <h3>Diseño: Prototipado de UX/UI</h3>
+                </div>
+                <div class="curso-botones">
+                    <button class="boton-contenido">VER CONTENIDO DEL CURSO</button>
+                    <button class="boton-continuar">CONTINUAR CON EL CURSO</button>
+                </div>
+            </div>
+        </div>
+        <div class="titulo2-main">
+            <h3>Inicia un nuevo curso</h3>
+        </div>
+
+        <div class="container-cursos">
+            <div class="left-section">
+                <div class="imagen-left">
+                    <img src="~/img/analisis_login.png" alt="">
+                </div>
+                <div class="text-left">
+                    <h2>Analisis</h2>
+                </div>
+            </div>
+            <div class="right-section">
+                <div class="text-right">
+                    <a class="text-right-enlace" asp-action="ContenidoAnalisis" asp-controller="ContenidoAnalisis"><p class="text-right-parrafo">Requerimientos funcionales y no funcionales</p></a>
+                    <p class="text-right-parrafo">Modelado y abstraccion de software</p>
+                </div>
+            </div>
+
+            <div class="left-section-diseno">
+                <div class="imagen-left-diseno">
+                    <img src="~/img/diseño_login.png" alt="">
+                </div>
+                <div class="text-left-diseno">
+                    <h2>Diseño</h2>
+                </div>
+            </div>
+            <div class="right-section-diseno">
+                <div class="text-right-diseno">
+                    <a class="text-right-enlace" asp-action="ContenidoDiseño" asp-controller="ContenidoDiseño"> <p class="text-right-parrafo">Prototipado de UX/UI</p></a>
+                    <p class="text-right-parrafo">Patrones de arquitectura</p>
+                </div>
+            </div>
+
+            <div class="left-section-desarrollo">
+                <div class="imagen-left-desarrollo">
+                    <img src="~/img/desarrollo_login.png" alt="">
+                </div>
+                <div class="text-left-desarrollo">
+                    <h2>Desarrollo</h2>
+                </div>
+            </div>
+            <div class="right-section-desarrollo">
+                <div class="text-right-desarrollo">
+                    <a class="text-right-enlace" asp-action="ContenidoDesarrollo" asp-controller="ContenidoDesarrollo"> <p class="text-right-parrafo">Lógica de programación y buenas prácticas</p></a>
+                    <p class="text-right-parrafo">Programación orientada a objetos</p>
+                </div>
+            </div>
+
+            <div class="left-section-pruebas">
+                <div class="imagen-left-pruebas">
+                    <img src="~/img/pruebas_login.png" alt="">
+                </div>
+                <div class="text-left-pruebas">
+                    <h2>Pruebas</h2>
+                </div>
+            </div>
+            <div class="right-section-pruebas">
+                <div class="text-right-pruebas">
+                    <p class="text-right-parrafo">Pruebas de caja negra y de caja blanca</p>
+                    <p class="text-right-parrafo">Pruebas E2E </p>
+                </div>
+            </div>
+
+            <div class="left-section-despliegue">
+                <div class="imagen-left-despliegue">
+                    <img src="~/img/despliegue_login.png" alt="">
+                </div>
+                <div class="text-left-despliegue">
+                    <h2>Despliegue</h2>
+                </div>
+            </div>
+            <div class="right-section-despliegue">
+                <div class="text-right-despliegue">
+                    <p class="text-right-parrafo">Introducción a Docker</p>
+                    <p class="text-right-parrafo">Introducción a Azure </p>
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <a class="footer__link" href="https://www.facebook.com">
+                <img class="footer__logo" src="~/img/facebook.png" alt="Logo facebook">
+            </a>
+            <a class="footer__link" href="https://www.instagram.com">
+                <img class="footer__logo" src="~/img/instagram.png" alt="Logo instagram">
+            </a>
+            <a class="footer__link" href="https://pascualbravo.edu.co">
+                <img class="footer__logo footer__logo-pascual" src="~/img/pascual.png" alt="Logo Institución Universitaria Pascual Bravo">
+            </a>
+            <a class="footer__link" href="https://www.youtube.com">
+                <img class="footer__logo" src="~/img/youtube.png" alt="Logo Youtube">
+            </a>
+            <a class="footer__link" href="https://x.com/home?lang=es">
+                <img class="footer__logo" src="~/img/x.png" alt="Logo X">
+            </a>
+        </footer>
+    </main>
+</body>
+</html>

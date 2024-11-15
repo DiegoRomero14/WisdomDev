@@ -52,7 +52,7 @@ Queremos:
 
 ## 🎨 Diseño en Figma  
 Explora el diseño visual de **WisdomDev** en Figma:  
-[![Ver diseño en Figma]](https://www.figma.com/design/AGAHefRjEcid6hPwSjleJM/WisdomDev?node-id=0-1&t=zYZTIBflyUGaHOBj-1)  
+[![Ver diseño en Figma](https://cdn.dribbble.com/users/321378/screenshots/16596488/media/edf9b2a1a3f20cde88931ad30f46085e.png?compress=1&resize=800x400)](https://www.figma.com/design/AGAHefRjEcid6hPwSjleJM/WisdomDev?node-id=0-1&t=zYZTIBflyUGaHOBj-1)  
 
 > Haz clic en la imagen para explorar el prototipo y obtener más detalles del diseño.  
 
@@ -60,6 +60,6 @@ Explora el diseño visual de **WisdomDev** en Figma:
 
 ## 🔧 DevOps en Azure  
 Accede al pipeline de DevOps para el despliegue y CI/CD del proyecto:  
-[![DevOps en Azure]](https://dev.azure.com/nykt3r/WisdomDev)  
+[![DevOps en Azure](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Azure_DevOps_Logo.svg/512px-Azure_DevOps_Logo.svg.png)](https://dev.azure.com/nykt3r/WisdomDev)  
 
 > Consulta el estado del despliegue, los logs y las configuraciones directamente en la plataforma.  

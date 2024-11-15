@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WisdomDev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+967e6ccda604af5120792a88119bae4dceffe3bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WisdomDev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WisdomDev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

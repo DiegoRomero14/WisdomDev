@@ -17,55 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WisdomDev
 build_property.RootNamespace = WisdomDev
-build_property.ProjectDir = C:\Users\Nykt3r\Downloads\WisdomDev\WisdomDev\
+build_property.ProjectDir = C:\Users\darom\source\repos\WisdomDev\WisdomDev\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Nykt3r\Downloads\WisdomDev\WisdomDev
+build_property.MSBuildProjectDirectory = C:\Users\darom\source\repos\WisdomDev\WisdomDev
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/ContenidoAnalisis/ContenidoAnalisis.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/ContenidoAnalisis/ContenidoAnalisis.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVuaWRvQW5hbGlzaXNcQ29udGVuaWRvQW5hbGlzaXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/ContenidoDesarrollo/ContenidoDesarrollo.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/ContenidoDesarrollo/ContenidoDesarrollo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVuaWRvRGVzYXJyb2xsb1xDb250ZW5pZG9EZXNhcnJvbGxvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/ContenidoDiseño/ContenidoDiseño.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/ContenidoDiseño/ContenidoDiseño.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVuaWRvRGlzZcOxb1xDb250ZW5pZG9EaXNlw7FvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/Dashboard/Dashboard.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/Dashboard/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/Home/Index.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/Login/login.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/Login/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cbG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/Shared/Error.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/_ViewImports.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/_ViewStart.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Nykt3r/Downloads/WisdomDev/WisdomDev/Views/Shared/_Layout.cshtml]
+[C:/Users/darom/source/repos/WisdomDev/WisdomDev/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a2ocsiplnp

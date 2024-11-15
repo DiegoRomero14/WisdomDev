@@ -129,3 +129,16 @@
     text-decoration: none;
     color: var(--grisOscuro);
 }
+
+.alerta-error {
+    display:flex;
+    background-color: #ffdddd;
+    color: #d8000c;
+    border: 1px solid #d8000c;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-align: center;
+    align-items:center;
+   justify-content:center;
+}

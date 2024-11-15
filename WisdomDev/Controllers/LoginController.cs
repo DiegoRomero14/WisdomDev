@@ -29,7 +29,7 @@ namespace WisdomDev.Controllers
             {
                 // Si el usuario no existe o la contraseña es incorrecta
                 ViewBag.ErrorMessage = "Credenciales incorrectas.";
-                return View("Index");
+                return View("Login");
             }
 
             // Si las credenciales son correctas, redirige a una página principal

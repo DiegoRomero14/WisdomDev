@@ -69,6 +69,8 @@
                     <p class="login__introduccion-parrafo">¡Realiza el login y obtén un excelente aprendizaje!</p>
                 </div>
 
+                
+
                 <form class="login__formulario" method="post" action="@Url.Action("InicioSesion", "Login")">
                     <div class="login__formulario__email">
                         <label class="login__formulario__etiqueta" for="email">Correo electrónico</label>
@@ -81,10 +83,20 @@
 
                     <button class="login__formulario__btn" type="submit">Iniciar Sesión</button>
 
+                    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+                    {
+                        <div class="alerta-error" style="color:#d8000c; display:flex; justify-content:center; align-items:center;  background-color: #ffdddd;  border: 1px solid #d8000c; padding: 10px; margin-bottom: 15px; border-radius: 5px;">
+                            <p>@ViewBag.ErrorMessage</p>
+                        </div>
+                    }
+
                     <div class="login__formulario__recuperar">
                         <p class="login__formulario__parrafo">¿Olvidaste tu contraseña?</p>
                         <a class="login__formulario__link" href="#">Recuperar</a>
                     </div>
+
+                   
+
                 </form>
             </div>
         </section>
